@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@lecterh 
-VikaTamazian
-/
-moviestore
-Public
-2
-00
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Wiki
-Security
-Insights
-moviestore/.gitignore
-@VikaTamazian
-VikaTamazian Correct git ignore
-Latest commit 929054a 12 days ago
- History
- 1 contributor
-47 lines (39 sloc)  570 Bytes
-   
 # Compiled class file
 *.class
 
@@ -76,16 +45,3 @@ hs_err_pid*
 .idea
 target/
 out/
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
